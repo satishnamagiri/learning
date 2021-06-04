@@ -1,0 +1,25 @@
+Install Git with Apt : 
+
+sudo apt-get update
+sudo apt-get install git
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+
+
+HCCD4-4CBCA-C9SCM-CJ4AA-QC83F
+
+
+Andhra Pragathi Grameena Bank
+A/C No : 91049272110
+IFSC : APGB0003070
+
+Kotak Mahindra - 
+A/C No : 3112268597
+IFSC : KKBK0007628
+
+Indian Overseas - 
+A/C No : 002601000022860
+IFSC : IOBA0002942
